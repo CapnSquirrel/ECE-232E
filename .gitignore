@@ -13,6 +13,10 @@
 profile_default/
 ipython_config.py
 
+# Misc Files
+los_angeles-censustracts-2019-4-All-MonthlyAggregate.csv
+los_angeles_censustracts.json
+
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
 
